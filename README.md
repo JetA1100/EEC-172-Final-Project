@@ -1,7 +1,7 @@
 # EEC-172-Final-Project
 ## Final Project for EEC 172
 ### Implementing Rolling Ball Maze Game using CC3200 with OLED and Accelerometer
-For detailed report and instructions, refer to 
+For detailed report and instructions, refer to "Zaw Aung - EEC 172 Final Project Report.pdf"
 #### Introduction
 EEC 172 makes use of the CC3200 LaunchPad to
 demonstrate and experiment with the concept of embedded
